@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Matt | @TheOnliestMattastic
 
-## 🎮 Indie Game Dev • 🛠 IT Support & Troubleshooter • 💻 Aspiring Junior Developer
+## 🎮 Indie Game Developer | 💻 Aspiring Junior Developer | 🛠️ IT Support Enthusiast
 
 ---
 
@@ -16,13 +16,14 @@ Welcome! I’m Matthew—an indie game developer, Linux enthusiast, and certifie
 - **[My-Bash-Toolkit](https://github.com/TheOnliestMattastic/My-Bash-Toolkit):**  
   Bash scripts for Linux automation—backups, syncs, and troubleshooting, designed to quietly keep systems running smooth.
 
-- **[Battle Tactics Arena](https://github.com/TheOnliestMattastic/BattleTacticsArena):**  
-  2D turn-based strategy prototype (Lua/LÖVE)—CS50’s Intro to CS final project. OOP, state machines, and intuitive gameplay.
-
 - **[Psychology Research: Impact of Tobacco on BP and HR](https://github.com/TheOnliestMattastic/Psychology-Research-Impact-of-Tobacco-on-BP-and-HR):**  
   Data analysis and reporting, merging science and clear communication.
 
-- **[Temples & Trolls (Unreal Engine 5 RPG)](https://theonliestmattastic.github.io/#projects):**  
+- **Battle Tactics Arena:**  
+  2D turn-based strategy prototype (Lua/LÖVE)—CS50’s Intro to CS final project. OOP, state machines, and intuitive gameplay.  
+  _Demo available upon request._
+
+- **Temples & Trolls (Unreal Engine 5 RPG):**  
   Ongoing UE5 RPG project; reduced crashes by 50% through systematic debugging and user-focused testing.
 
 ---
