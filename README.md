@@ -1,67 +1,69 @@
-# 👋 Hi, I'm Matt | @TheOnliestMattastic
+<pre>
+                      _____ _ 
+                     /__   \ |__   ___ 
+                       / /\/ '_ \ / _ \ 
+                      / /  | | | |  __/ 
+                      \/   |_| |_|\___| 
+    ___               ___       ___       _ _           _ 
+   /___\_ __   ___   ( _ )     /___\_ __ | (_) ___  ___| |_ 
+  //  // '_ \ / _ \  / _ \/\  //  // '_ \| | |/ _ \/ __| __| 
+ / \_//| | | |  __/ | (_>  < / \_//| | | | | |  __/\__ \ |_ 
+ \___/ |_| |_|\___|  \___/\/ \___/ |_| |_|_|_|_|\___||___/\__| 
+                        _   _            _   _ 
+            /\/\   __ _| |_| |_ __ _ ___| |_(_) ___ 
+           /    \ / _` | __| __/ _` / __| __| |/ __| 
+          / /\/\ \ (_| | |_| || (_| \__ \ |_| | (__ 
+          \/    \/\__,_|\__|\__\__,_|___/\__|_|\___| 
+</pre>
 
-## 🎮 Indie Game Developer | 💻 Aspiring Junior Developer | 🛠️ IT Support Enthusiast
+# 👋 Oh, Hello — I’m Matthew | @TheOnliestMattastic
 
----
+### 🎮 Indie Game Developer | 💻 Aspiring Junior Developer | 🛠️ IT Support Enthusiast | 🐧 Linux Nerd
 
-Welcome! I’m Matthew—an indie game developer, Linux enthusiast, and certified IT Support candidate. My journey blends creative design, real-world troubleshooting, and a drive to build solutions that actually *help* people. I’m seeking entry-level roles in game development, software, or IT support—but my main goal is to craft games professionally.
+I build games, automation, and reproducible analysis. My background blends creative writing and psychology with hands‑on technical projects. I’m pursuing entry‑level roles in game development, software, or IT support, and I present my work in recruiter‑friendly formats with technical depth available for reviewers.
 
-> **Check out my full portfolio:**  
-> 🌐 [TheOnliestMattastic.github.io](https://theonliestmattastic.github.io)
+🌐 **Portfolio:** https://theonliestmattastic.github.io
 
----
+## Featured projects
 
-### 🗂️ Featured Projects
+### 🚬 Impact of Tobacco on BP & HR  
+> Undergraduate research using R, R Markdown, and ggplot2 to analyze smoking intensity and cardiovascular measures.  
+**Tech:** R · R Markdown · ggplot2 · reproducible reporting  
+[![Demo](https://img.shields.io/badge/Demo-Live%20Report-2980b9?style=for-the-badge&logo=githubpages&logoColor=white)](https://theonliestmattastic.github.io/Psychology-Research-Impact-of-Tobacco-on-BP-and-HR/) [![Code](https://img.shields.io/badge/Code-GitHub-44475a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheOnliestMattastic/Psychology-Research-Impact-of-Tobacco-on-BP-and-HR)
 
-- **[My-Bash-Toolkit](https://github.com/TheOnliestMattastic/My-Bash-Toolkit):**  
-  Bash scripts for Linux automation—backups, syncs, and troubleshooting, designed to quietly keep systems running smooth.
+### 🛠️ Bash Toolkit  
+> Collection of sysadmin scripts for setup, recovery, and automation.  
+**Tech:** Bash · Rclone · cron · Syncthing  
+[![Demo](https://img.shields.io/badge/Demo-Live%20Site-2980b9?style=for-the-badge&logo=githubpages&logoColor=white)](https://theonliestmattastic.github.io/My-Bash-Toolkit/) [![Code](https://img.shields.io/badge/Code-GitHub-44475a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theonliestmattastic/my-bash-toolkit)
 
-- **[Psychology Research: Impact of Tobacco on BP and HR](https://github.com/TheOnliestMattastic/Psychology-Research-Impact-of-Tobacco-on-BP-and-HR):**  
-  Data analysis and reporting, merging science and clear communication.
 
-- **Battle Tactics Arena:**  
-  2D turn-based strategy prototype (Lua/LÖVE)—CS50’s Intro to CS final project. OOP, state machines, and intuitive gameplay.  
-  _Demo available upon request._
+## 🧰 Technical skills
 
-- **Temples & Trolls (Unreal Engine 5 RPG):**  
-  Ongoing UE5 RPG project; reduced crashes by 50% through systematic debugging and user-focused testing.
+- Game dev: Unreal Engine 5 (C++), LÖVE (Lua), Blender, Krita  
+- Scripting & automation: Bash, R, Python (basics), Markdown  
+- Web & tooling: HTML/CSS, Git, GitHub Pages, VS Code  
+- Systems: Linux (Fedora, Pop!_OS), Windows, SOHO networking  
+- Tools: R Markdown, ggplot2, Rclone, Timeshift, Syncthing
 
----
+## 📜 Education & certifications
 
-### 🧰 Technical Skills
+- CompTIA A+ — valid through 2028  
+- CS50 Intro to Computer Science — Harvard/edX 
+- Unreal Engine C++ — Udemy  
+- BA Creative Writing & Psychology — CCNY, Summa Cum Laude  
 
-- **Game Dev:** Unreal Engine 5 (C++), Lua (LÖVE), Blender, Krita
-- **Scripting/Automation:** Bash, Python, Markdown
-- **Systems:** Linux (Fedora, Pop!_OS), Windows, SOHO networking
-- **Tools:** Git/GitHub, VS Code, Rclone, Timeshift, Syncthing
+## 🎲 Interests & values
 
----
+- Game design, longboarding, Linux customization  
+- Lifelong learning, empathy, clear communication
 
-### 🎲 Interests
+## 💡 What Sets Me Apart
 
-- Video & board games
-- Longboarding/skateboarding
-- Linux tinkering & customization
-
----
-
-### 📜 Certification & Education
-
-- **CompTIA A+ Certified** (2024)
-- **CS50 Intro to CS** (Harvard/edX)
-- **BA Creative Writing & Psychology** (CCNY, Summa Cum Laude)
-
----
-
-### 💡 What Sets Me Apart
-
-- **Portfolio-first:** My [github.io page](https://theonliestmattastic.github.io) showcases my projects, troubleshooting, and creative work—demonstrating not just *what* I build, but *how* I solve problems.
+- **Diverse background:** My mix of creative writing, psychology, and tech gives me a unique perspective on user needs and problem-solving.
 - **Documented workflows:** I approach IT and game dev with playbooks, reproducible steps, and automation.
 - **Empathy:** I translate technical challenges into clear, actionable guidance for all users.
 
----
-
-### 🤝 Let's Connect!
+## 🤝 Let's Connect!
 
 Open to collaboration, mentorship, or entry-level opportunities in IT support, game dev, or software. Curious, motivated, and ready to learn!
 
