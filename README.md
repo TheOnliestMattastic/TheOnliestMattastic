@@ -1,76 +1,82 @@
-<pre>
-                      _____ _ 
-                     /__   \ |__   ___ 
-                       / /\/ '_ \ / _ \ 
-                      / /  | | | |  __/ 
-                      \/   |_| |_|\___| 
-    ___               ___       ___       _ _           _ 
-   /___\_ __   ___   ( _ )     /___\_ __ | (_) ___  ___| |_ 
-  //  // '_ \ / _ \  / _ \/\  //  // '_ \| | |/ _ \/ __| __| 
- / \_//| | | |  __/ | (_>  < / \_//| | | | | |  __/\__ \ |_ 
- \___/ |_| |_|\___|  \___/\/ \___/ |_| |_|_|_|_|\___||___/\__| 
-                        _   _            _   _ 
-            /\/\   __ _| |_| |_ __ _ ___| |_(_) ___ 
-           /    \ / _` | __| __/ _` / __| __| |/ __| 
-          / /\/\ \ (_| | |_| || (_| \__ \ |_| | (__ 
-          \/    \/\__,_|\__|\__\__,_|___/\__|_|\___| 
-</pre>
+```
+___________ __             ________                         
+\__    ___/|  |__   ____   \_____  \   ____   ____          
+  |    |   |  |  \_/ __ \   /   |   \ /    \_/ __ \         
+  |    |   |   Y  \  ___/  /    |    \   |  \  ___/         
+  |____|   |___|  /\___  > \_______  /___|  /\___  >        
+                \/     \/          \/     \/     \/         
+  ____    ________          __   __                 __      
+ /  _ \   \_____  \   ____ |  | |__| ____   _______/  |_    
+ >  _ </\  /   |   \ /    \|  | |  |/ __ \ /  ___/\   __\   
+/  <_\ \/ /    |    \   |  \  |_|  \  ___/ \___ \  |  |     
+\_____\ \ \_______  /___|  /____/__|\___  >____  > |__|     
+       \/         \/     \/             \/     \/           
+   _____          __    __                   __   __        
+  /     \ _____ _/  |__/  |______    _______/  |_|__| ____  
+ /  \ /  \\__  \\   __\   __\__  \  /  ___/\   __\  |/ ___\ 
+/    Y    \/ __ \|  |  |  |  / __ \_\___ \  |  | |  \  \___ 
+\____|__  (____  /__|  |__| (____  /____  > |__| |__|\___  >
+        \/     \/                \/     \/               \/ 
+```
 
-# 👋 Oh, Hello — I’m Matthew | @TheOnliestMattastic
+![CompTIA A+](https://img.shields.io/badge/Certified-green?style=for-the-badge&logo=comptia&logoSize=auto&label=A%2B)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Coffee](https://img.shields.io/badge/Coffee-Fueled-6F4E37?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)
 
-### 🎮 Indie Game Developer | 💻 Aspiring Junior Developer | 🛠️ IT Support Enthusiast | 🐧 Linux Nerd
+[![Resume](https://img.shields.io/badge/Resume-PDF-4A90E2?style=for-the-badge&logo=adobeacrobatreader&logoSize=auto&label=Download)](https://raw.githubusercontent.com/theonliestmattastic/theonliestmattastic.github.io/main/assets/docs/resume.pdf)
 
-I build games, automation, and reproducible analysis. My background blends creative writing and psychology with hands‑on technical projects. I’m pursuing entry‑level roles in game development, software, or IT support, and I present my work in recruiter‑friendly formats with technical depth available for reviewers.
+# 👋 Oh, Hello!
 
-🌐 **Portfolio:** https://theonliestmattastic.github.io
+I’m Matthew, a solo **indie game developer** and **IT support** candidate who turns curiosity into working systems and playable worlds. I grew up glued to my computer screen and channeled that obsession into building and upgrading desktops, learning Linux inside out, and now developing an open-world RPG in Unreal Engine with C++.  
 
-## Featured projects
+I’m **CompTIA A+ certified**, a lifelong self-learner, and a tinkerer who loves finding problems, fixing them, and documenting the process so others can learn too.  
 
-### 🚬 Impact of Tobacco on BP & HR  
-> Undergraduate research using R, R Markdown, and ggplot2 to analyze smoking intensity and cardiovascular measures.  
-**Tech:** R · R Markdown · ggplot2 · reproducible reporting  
-[![Demo](https://img.shields.io/badge/Demo-Live%20Report-2980b9?style=for-the-badge&logo=githubpages&logoColor=white)](https://theonliestmattastic.github.io/Psychology-Research-Impact-of-Tobacco-on-BP-and-HR/) [![Code](https://img.shields.io/badge/Code-GitHub-44475a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheOnliestMattastic/Psychology-Research-Impact-of-Tobacco-on-BP-and-HR)
+## 🚀 Featured Projects
 
-### 🛠️ Bash Toolkit  
-> Collection of sysadmin scripts for setup, recovery, and automation.  
-**Tech:** Bash · Rclone · cron · Syncthing  
-[![Demo](https://img.shields.io/badge/Demo-Live%20Site-2980b9?style=for-the-badge&logo=githubpages&logoColor=white)](https://theonliestmattastic.github.io/My-Bash-Toolkit/) [![Code](https://img.shields.io/badge/Code-GitHub-44475a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theonliestmattastic/my-bash-toolkit)
+### 🎮 Open-World RPG (Work in Progress)  
+> My passion project: a solo-developed RPG in Unreal Engine (C++). Currently building gameplay systems, experimenting with procedural encounters, and documenting the dev roadmap.  
+**Tech:** Unreal Engine · C++ · Blender · Krita  
+*(Repo coming soon with roadmap, screenshots, and devlog notes.)*
 
+### 📊 Impact of Tobacco on BP & HR  
+> Undergraduate research project analyzing how smoking intensity influences blood pressure and heart rate, with emphasis on **data visualization, statistical modeling, and reproducible reporting**.  
+**Tech:** R · ggplot2 · R Markdown   
+[![Live_Site](https://img.shields.io/badge/Live_Site-2980b9?style=for-the-badge&logo=githubpages&logoSize=auto&label=Report)](https://theonliestmattastic.github.io/Psychology-Research-Impact-of-Tobacco-on-BP-and-HR/) 
+[![Code](https://img.shields.io/badge/Code-GitHub-44475a?style=for-the-badge&logo=github&logoSize=auto&logoColor=white)](https://github.com/theonliestmattastic/Psychology-Research-Impact-of-Tobacco-on-BP-and-HR)
 
-## 🧰 Technical skills
+### 🧰 Bash Toolkit  
+> A curated collection of custom Bash scripts designed to **streamline everyday system tasks**—because life’s too short to babysit your filesystem. Each script is documented for **portability, clarity, and reuse**.  
+**Tech:** Bash · Rclone · cron  
+[![Live_Site](https://img.shields.io/badge/Live_Site-2980b9?style=for-the-badge&logo=githubpages&logoSize=auto&label=Docs)](https://theonliestmattastic.github.io/my-bash-toolkit/)
+[![Code](https://img.shields.io/badge/Code-GitHub-44475a?style=for-the-badge&logo=github&logoSize=auto&logoColor=white)](https://theonliestmattastic.github.io/my-bash-toolkit/)
 
-- Game dev: Unreal Engine 5 (C++), LÖVE (Lua), Blender, Krita  
-- Scripting & automation: Bash, R, Python (basics), Markdown  
-- Web & tooling: HTML/CSS, Git, GitHub Pages, VS Code  
-- Systems: Linux (Fedora, Pop!_OS), Windows, SOHO networking  
-- Tools: R Markdown, ggplot2, Rclone, Timeshift, Syncthing
+## ✨ Skills & Interests
 
-## 📜 Education & certifications
+- **Game Development:** Unreal Engine, C++, gameplay systems, asset pipelines  
+- **Systems & Support:** CompTIA A+, desktop/laptop build & upgrade, OS installs, recovery  
+- **Programming & Scripting:** Bash, C++, Markdown, HTML/CSS, Python (familiar), PowerShell (learning)  
+- **Platform Fluency:** Linux power user; comfortable across Windows and macOS  
+- **Other interests:** Video & board games, longboarding/skateboarding, anime, satire (Trey Parker & Matt Stone, Matt Groening, John Oliver), human rights & economic justice  
 
-- CompTIA A+ — valid through 2028  
-- CS50 Intro to Computer Science — Harvard/edX 
-- Unreal Engine C++ — Udemy  
-- BA Creative Writing & Psychology — CCNY, Summa Cum Laude  
+## 🔍 Current Focus
 
-## 🎲 Interests & values
+- Polishing repo branding and READMEs to clearly show problem-solving and impact  
+- Expanding automation coverage for routine support tasks and deployment workflows  
+- Developing my open-world RPG in Unreal Engine (C++ gameplay systems, devlog roadmap)  
+- Keeping a cohesive visual identity across repos: ASCII headers, badges, and README cards  
 
-- Game design, longboarding, Linux customization  
-- Lifelong learning, empathy, clear communication
+## ⚖️ Values
 
-## 💡 What Sets Me Apart
+I care about clear education, fair wages, and the struggle against class and income inequality. I bring those values into collaborative projects, documentation that reduces barriers to entry, and code that’s meant to teach as much as it runs.  
 
-- **Diverse background:** My mix of creative writing, psychology, and tech gives me a unique perspective on user needs and problem-solving.
-- **Documented workflows:** I approach IT and game dev with playbooks, reproducible steps, and automation.
-- **Empathy:** I translate technical challenges into clear, actionable guidance for all users.
+## 🔗 Contact
 
-## 🤝 Let's Connect!
+- **Portfolio:** [TheOnliestMattastic.github.io](https://theonliestmattastic.github.io/)  
+- **Email:** [matthew.poole485@gmail.com](mailto:matthew.poole485@gmail.com)  
 
-Open to collaboration, mentorship, or entry-level opportunities in IT support, game dev, or software. Curious, motivated, and ready to learn!
+> _Sometimes the questions are complicated and the answers are simple._  
+> — Dr. Seuss
 
-🌐 [Portfolio](https://theonliestmattastic.github.io)  
-📧 [matthew.poole485@gmail.com](mailto:matthew.poole485@gmail.com)  
-🔗 [github.com/TheOnliestMattastic](https://github.com/TheOnliestMattastic)
-
-<!--
-[![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheOnliestMattastic&show_icons=true&theme=radical)](https://github.com/TheOnliestMattastic)
--->
