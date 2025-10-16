@@ -30,7 +30,7 @@ ___________ __             ________
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-2980b9?style=for-the-badge&logo=githubpages&logoSize=auto&labelColor=gray)](https://theonliestmattastic.github.io/)
 [![Resume](https://img.shields.io/badge/Resume-PDF-4A90E2?style=for-the-badge)](https://raw.githubusercontent.com/theonliestmattastic/theonliestmattastic.github.io/main/assets/docs/resume.pdf)
-[![Email](https://img.shields.io/badge/Email-DM-6fc2b0?style=for-the-badge&logo=gmail&logoColor=white&label=Contact)](mailto:matthew.poole485@gmail.com)
+[![Email](https://img.shields.io/badge/Email-6fc2b0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matthew.poole485@gmail.com)
 
 # 👋 Oh, Hello! — I'm Matthew | @TheOnliestMattastic
 
