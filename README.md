@@ -14,11 +14,11 @@ ___________.__             ________         .__  .__                 __
 ```
 
 [![CompTIA A+](https://img.shields.io/badge/Certified-bd93f9?style=for-the-badge&logo=comptia&logoSize=auto&label=A%2b&labelColor=6272a4)](https://www.credly.com/badges/b85bd0a5-0d6a-4d27-ba9b-1fee27e397f0/public_url)
-[![Bash](https://img.shields.io/badge/Bash-bd93f9?style=for-the-badge&logo=gnu-bash&logoColor=white&logosize=auto)](https://www.gnu.org/software/bash/)
-[![C++](https://img.shields.io/badge/C%2B%2B-bd93f9?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
-[![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-bd93f9?style=for-the-badge&logo=unrealengine&logoColor=white&logosize=auto)](https://www.unrealengine.com/)
-[![Blender](https://img.shields.io/badge/Blender-bd93f9?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/)
-[![Krita](https://img.shields.io/badge/Krita-bd93f9?style=for-the-badge&logo=krita&logoColor=white)](https://krita.org/en/)
+[![Bash](https://img.shields.io/badge/Bash-bd93f9?style=for-the-badge&logo=gnu-bash&logoColor=white&logosize=auto&labelColor=6272a4)](https://www.gnu.org/software/bash/)
+[![C++](https://img.shields.io/badge/C%2B%2B-bd93f9?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=6272a4)](https://isocpp.org/)
+[![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-bd93f9?style=for-the-badge&logo=unrealengine&logoColor=white&logosize=auto&labelColor=6272a4)](https://www.unrealengine.com/)
+[![Blender](https://img.shields.io/badge/Blender-bd93f9?style=for-the-badge&logo=blender&logoColor=white&labelColor=6272a4)](https://www.blender.org/)
+[![Krita](https://img.shields.io/badge/Krita-bd93f9?style=for-the-badge&logo=krita&logoColor=white&labelColor=6272a4)](https://krita.org/en/)
 [![Linux](https://img.shields.io/badge/Linux-bd93f9?style=for-the-badge&logo=nobaralinux&logoColor=white&label=Nobara&labelColor=6272a4)](https://nobaraproject.org/)
 [![Coffee](https://img.shields.io/badge/Coffee-Fueled-bd93f9?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=6272a4)](https://en.wikipedia.org/wiki/The_Oh,_Hello_Show)  
 
@@ -33,11 +33,6 @@ I’m **CompTIA A+ certified**, a lifelong self-learner, and a tinkerer who love
 
 ## 🚀 Featured Projects
 
-### 👾 Open-World RPG (Work in Progress)  
-> My passion project: a solo-developed RPG in Unreal Engine (C++). Currently building gameplay systems, experimenting with procedural encounters, and documenting the dev roadmap.  
-**Tech:** Unreal Engine · C++ · Blender · Krita  
-*(Repo coming soon with roadmap, screenshots, and devlog notes.)*
-
 ### 📊 Impact of Tobacco on BP & HR  
 > Undergraduate research project analyzing how smoking intensity influences blood pressure and heart rate, with emphasis on **data visualization, statistical modeling, and reproducible reporting**.  
 **Tech:** R · ggplot2 · R Markdown   
@@ -49,6 +44,11 @@ I’m **CompTIA A+ certified**, a lifelong self-learner, and a tinkerer who love
 **Tech:** Bash · rclone · cron  
 [![Live_Site](https://img.shields.io/badge/Live-bd93f9?style=for-the-badge&logo=githubpages&logoSize=auto&logoColor=white&labelColor=6272a4)](https://theonliestmattastic.github.io/my-bash-toolkit/)
 [![Code](https://img.shields.io/badge/GitHub-Code-bd93f9?style=for-the-badge&logo=github&logoSize=auto&logoColor=white&labelColor=6272a4)](https://theonliestmattastic.github.io/my-bash-toolkit/)
+
+### 👾 Open-World RPG (Work in Progress)  
+> My passion project: a solo-developed RPG in Unreal Engine (C++). Currently building gameplay systems, experimenting with procedural encounters, and documenting the dev roadmap.  
+**Tech:** Unreal Engine · C++ · Blender · Krita  
+*(Repo coming soon with roadmap, screenshots, and devlog notes.)*
 
 ## ✨ Skills & Interests
 
