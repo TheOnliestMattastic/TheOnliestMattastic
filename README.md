@@ -13,6 +13,8 @@ ___________.__             ________         .__  .__                 __
         \/     \/                \/     \/               \/               
 ```
 
+# 👋 Oh, Hello! — I'm Matthew | @TheOnliestMattastic
+
 [![CompTIA A+](https://img.shields.io/badge/Certified-bd93f9?style=for-the-badge&logo=comptia&logoSize=auto&label=A%2b&labelColor=6272a4)](https://www.credly.com/badges/b85bd0a5-0d6a-4d27-ba9b-1fee27e397f0/public_url)
 [![Bash](https://img.shields.io/badge/Bash-bd93f9?style=for-the-badge&logo=gnu-bash&logoColor=white&logosize=auto&labelColor=6272a4)](https://www.gnu.org/software/bash/)
 [![C++](https://img.shields.io/badge/C%2B%2B-bd93f9?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=6272a4)](https://isocpp.org/)
@@ -24,8 +26,6 @@ ___________.__             ________         .__  .__                 __
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-bd93f9?style=for-the-badge&logo=githubpages&logoSize=auto&labelColor=6272a4)](https://theonliestmattastic.github.io/)
 [![Resume](https://img.shields.io/badge/Resume-PDF-bd93f9?style=for-the-badge&labelColor=6272a4)](https://raw.githubusercontent.com/theonliestmattastic/theonliestmattastic.github.io/main/assets/docs/resume.pdf)
-
-# 👋 Oh, Hello! — I'm Matthew | @TheOnliestMattastic
 
 Welcome to my page! I'm a solo **indie game developer** and **IT support** candidate who turns curiosity into working systems and playable worlds. I grew up glued to my computer screen and channeled that obsession into building and upgrading desktops, learning Windows inside out, and now developing an open-world RPG in **Unreal Engine** with **C++**.  
 
