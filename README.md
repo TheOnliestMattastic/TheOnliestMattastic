@@ -50,7 +50,7 @@ I’m **CompTIA A+ certified**, a lifelong self-learner, and a tinkerer who love
 **Tech:** Unreal Engine · C++ · Blender · Krita  
 *(Repo coming soon with roadmap, screenshots, and devlog notes.)*
 
-## ☄️ Skills & Interests
+## 🛰️ Skills & Interests
 
 - **Scripting & Automation:** Bash (proficient), Lua (familiar), PowerShell (learning)
 - **Programming Languages:** C++ (proficient), R (familiar), Python (learning)
