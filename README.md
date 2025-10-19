@@ -23,7 +23,6 @@ ___________.__             ________         .__  .__                 __
 [![Krita](https://img.shields.io/badge/Digital_Art-Krita-bd93f9?style=for-the-badge&logo=krita&logoColor=white&labelColor=6272a4)](https://krita.org/en/)
 [![Nobara Linux](https://img.shields.io/badge/Linux-Nobara-bd93f9?style=for-the-badge&logo=nobaralinux&logoColor=white&labelColor=6272a4)](https://nobaraproject.org/)
 [![Coffee](https://img.shields.io/badge/Fueled_by-Coffee-bd93f9?style=for-the-badge&logo=buymeacoffee&logoColor=white&labelColor=6272a4)](https://en.wikipedia.org/wiki/The_Oh,_Hello_Show)  
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-bd93f9?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=6272a4)](https://theonliestmattastic.github.io/)
 [![Resume](https://img.shields.io/badge/Resume-PDF-bd93f9?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=6272a4)](https://raw.githubusercontent.com/theonliestmattastic/theonliestmattastic.github.io/main/assets/docs/resume.pdf)
 
@@ -73,8 +72,7 @@ I care about clear education, fair wages, and the struggle against class and inc
 
 ## 👽 Contact!
 
-Curious about my projects? Want to collaborate or hire for entry-level IT/support/dev roles?
-Shoot me an email or connect on GitHub—I reply quickly and love new challenges.  
+Curious about my projects? Want to collaborate or hire for entry-level IT/support/dev roles? Shoot me an email or connect on GitHub—I reply quickly and love new challenges.  
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-bd93f9?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=6272a4)](https://theonliestmattastic.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-bd93f9?style=for-the-badge&logo=github&logoColor=white&labelColor=6272a4)](https://github.com/theonliestmattastic)
