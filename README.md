@@ -15,6 +15,8 @@ ___________.__             ________         .__  .__                 __
 
 # 🧑‍🚀 Oh, Hello! — I'm Matthew | @TheOnliestMattastic
 
+**CompTIA A+ Certified | IT Support & Automation | Indie Game Developer**
+
 [![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B_Certified-bd93f9?style=for-the-badge&logo=comptia&logoColor=white&labelColor=6272a4)](https://www.credly.com/badges/b85bd0a5-0d6a-4d27-ba9b-1fee27e397f0/public_url)
 [![Bash](https://img.shields.io/badge/Shell-Bash-bd93f9?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=6272a4)](https://www.gnu.org/software/bash/)
 [![C++](https://img.shields.io/badge/Language-C++-bd93f9?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=6272a4)](https://isocpp.org/)
@@ -28,7 +30,7 @@ ___________.__             ________         .__  .__                 __
 
 Welcome to my page! I'm a solo **indie game developer** and **IT support** candidate who turns curiosity into working systems and playable worlds. I grew up glued to my computer screen and channeled that obsession into building and upgrading desktops, learning Windows inside out, and now developing an open-world RPG in **Unreal Engine** with **C++**.  
 
-I’m **CompTIA A+ certified**, a lifelong self-learner, and a tinkerer who loves finding problems, fixing them, and documenting the process so others can learn too.  
+I am a lifelong self-learner and a tinkerer who loves finding problems, fixing them, and documenting the process so others can learn too.  
 
 ## 🚀 Featured Projects
 
