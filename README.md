@@ -24,6 +24,7 @@ ___________.__             ________         .__  .__                 __
 - **🐱 powerCat (PowerShell, Pester, GitHub Actions)** — Published a professional‑grade PowerShell module with automated testing and CI/CD, streamlining code/documentation bundling for recruiters and collaborators.  
 - **🧰 Bash Toolkit (Bash, rclone, cron)** — Built and documented a suite of portable scripts to automate repetitive system tasks, reducing manual overhead and improving reliability.  
 - **📊 Tobacco & Vital Signs Research (R, ggplot2, R Markdown)** — Conducted statistical modeling and data visualization on smoking’s impact on blood pressure/heart rate, producing a reproducible, published report.  
+- **🪐 The Onliest Folio (HTML, CSS, JavaScript)** — Developed a dual‑purpose personal portfolio that doubles as a beginner‑friendly template. Added clear inline comments and structured guidance so non‑coders can fork, customize, and publish their own sites, lowering barriers to entry for newcomers to GitHub and web development.  
 - **👾 Open‑World RPG (Unreal Engine, C++, Blender, Krita)** — Designing and developing core gameplay systems and procedural encounters as a solo dev, demonstrating long‑term project management and creative problem‑solving.  
 
 ## ✨ Skills Snapshot  
