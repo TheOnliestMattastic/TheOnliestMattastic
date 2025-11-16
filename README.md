@@ -8,7 +8,7 @@ MMMM  MMMM 88'  `88 88ooood8 M  MMMMM  M 88'  `88 88 88 88ooood8 Y8ooooo.   88
 MMMM  MMMM 88    88 88.  ... M. `MMM' .M 88    88 88 88 88.  ...       88   88   
 MMMM  MMMM dP    dP `88888P' MMb     dMM dP    dP dP dP `88888P' `88888P'   dP   
 MMMMMMMMMM                   MMMMMMMMMMM                                         
-                                                                                 
+                                                                                  
 M"""""`'"""`YM            dP     dP                       dP   oo                
 M  mm.  mm.  M            88     88                       88                     
 M  MMM  MMM  M .d8888b. d8888P d8888P .d8888b. .d8888b. d8888P dP .d8888b.       
@@ -28,7 +28,7 @@ MMMMMMMMMMMMMM
 - **🧰 Bash Toolkit (Bash, rclone, cron)** — Built and documented a suite of portable scripts to automate repetitive system tasks, reducing manual overhead and improving reliability.  
 - **📊 Tobacco & Vital Signs Research (R, ggplot2, R Markdown)** — Conducted statistical modeling and data visualization on smoking’s impact on blood pressure/heart rate, producing a reproducible, published report.  
 - **🪐 The Onliest Folio (HTML, CSS, JavaScript)** — Developed a dual‑purpose personal portfolio that doubles as a beginner‑friendly template. Added clear inline comments and structured guidance so non‑coders can fork, customize, and publish their own sites, lowering barriers to entry for newcomers to GitHub and web development.  
-- **👾 Open‑World RPG (Unreal Engine, C++, Blender, Krita)** — Designing and developing core gameplay systems and procedural encounters as a solo dev, demonstrating long‑term project management and creative problem‑solving.  
+- **⚔️ Battle Tactics Arena: Refactored & Remastered (Lua, LÖVE2D)** — 2D turn-based tactical RPG rebuilt with modular architecture, animated sprites, and data-driven design. Demonstrates clean code practices, state management, and portfolio-quality game development.  
 
 ## ✨ Skills Snapshot  
 
@@ -56,12 +56,16 @@ I’m **CompTIA A+ certified**, a lifelong tinkerer, and a believer in making te
 
 - Expanding automation coverage for support tasks and deployment workflows  
 - Polishing repo branding and READMEs to highlight problem‑solving and impact  
-- Developing my open‑world RPG in Unreal Engine (C++ gameplay systems, devlog roadmap)  
+- Refining BTAR-R: adding special abilities, AI opponents, and level progression  
 - Maintaining a cohesive visual identity across repos (ASCII headers, badges, README cards)  
+
+## 🤖 On AI Tooling  
+
+I use AI assistants—primarily **Claude** and **Amp**—as productivity tools in my development workflow. For anyone who identifies as **neurodivergent** (ADHD, ASD, OCD, etc.), these tools can be genuinely transformative: they handle context-switching, provide real-time documentation, and reduce cognitive friction during implementation. I treat them as **collaborative partners**, not replacements—I review, test, and maintain full ownership of my code. Transparency about tool usage matters.
 
 ## 🌌 Values  
 
-I believe in **clear education, fair wages, and reducing barriers to entry in tech**. My code is written to teach as much as it runs, and my documentation is designed to empower others.  
+I believe in **clear education, fair wages, and reducing barriers to entry in tech**. My code is written to teach as much as it runs, and my documentation is designed to empower others. I'm also committed to **destigmatizing neurodivergence** and **making dev tooling more accessible**.  
 
 ## 👽 Contact  
 
