@@ -1,21 +1,32 @@
 # 🧑‍🚀 Oh, Hello! — I'm Matthew | @TheOnliestMattastic  
 
 ```txt
-M""""""""M dP                MMP"""""YMM          dP oo                     dP   
-Mmmm  mmmM 88                M' .mmm. `M          88                        88   
-MMMM  MMMM 88d888b. .d8888b. M  MMMMM  M 88d888b. 88 dP .d8888b. .d8888b. d8888P 
-MMMM  MMMM 88'  `88 88ooood8 M  MMMMM  M 88'  `88 88 88 88ooood8 Y8ooooo.   88   
-MMMM  MMMM 88    88 88.  ... M. `MMM' .M 88    88 88 88 88.  ...       88   88   
-MMMM  MMMM dP    dP `88888P' MMb     dMM dP    dP dP dP `88888P' `88888P'   dP   
-MMMMMMMMMM                   MMMMMMMMMMM                                         
-                                                                                  
-M"""""`'"""`YM            dP     dP                       dP   oo                
-M  mm.  mm.  M            88     88                       88                     
-M  MMM  MMM  M .d8888b. d8888P d8888P .d8888b. .d8888b. d8888P dP .d8888b.       
-M  MMM  MMM  M 88'  `88   88     88   88'  `88 Y8ooooo.   88   88 88'  `""       
-M  MMM  MMM  M 88.  .88   88     88   88.  .88       88   88   88 88.  ...       
-M  MMM  MMM  M `88888P8   dP     dP   `88888P8 `88888P'   dP   dP `88888P'       
-MMMMMMMMMMMMMM                                                                   
+ ███████████ █████                                                                       
+░█░░░███░░░█░░███                                                                        
+░   ░███  ░  ░███████    ██████                                                          
+    ░███     ░███░░███  ███░░███                                                         
+    ░███     ░███ ░███ ░███████                                                          
+    ░███     ░███ ░███ ░███░░░                                                           
+    █████    ████ █████░░██████                                                          
+   ░░░░░    ░░░░ ░░░░░  ░░░░░░                                                           
+                                                                                         
+    ███████               ████   ███                    █████                            
+  ███░░░░░███            ░░███  ░░░                    ░░███                             
+ ███     ░░███ ████████   ░███  ████   ██████   █████  ███████                           
+░███      ░███░░███░░███  ░███ ░░███  ███░░███ ███░░  ░░░███░                            
+░███      ░███ ░███ ░███  ░███  ░███ ░███████ ░░█████   ░███                             
+░░███     ███  ░███ ░███  ░███  ░███ ░███░░░   ░░░░███  ░███ ███                         
+ ░░░███████░   ████ █████ █████ █████░░██████  ██████   ░░█████                          
+   ░░░░░░░    ░░░░ ░░░░░ ░░░░░ ░░░░░  ░░░░░░  ░░░░░░     ░░░░░                           
+                                                                                         
+ ██████   ██████            █████     █████                       █████     ███          
+░░██████ ██████            ░░███     ░░███                       ░░███     ░░░           
+ ░███░█████░███   ██████   ███████   ███████    ██████    █████  ███████   ████   ██████ 
+ ░███░░███ ░███  ░░░░░███ ░░░███░   ░░░███░    ░░░░░███  ███░░  ░░░███░   ░░███  ███░░███
+ ░███ ░░░  ░███   ███████   ░███      ░███      ███████ ░░█████   ░███     ░███ ░███ ░░░ 
+ ░███      ░███  ███░░███   ░███ ███  ░███ ███ ███░░███  ░░░░███  ░███ ███ ░███ ░███  ███
+ █████     █████░░████████  ░░█████   ░░█████ ░░████████ ██████   ░░█████  █████░░██████ 
+░░░░░     ░░░░░  ░░░░░░░░    ░░░░░     ░░░░░   ░░░░░░░░ ░░░░░░     ░░░░░  ░░░░░  ░░░░░░  
 ```
 
 [![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B_Certified-bd93f9?style=for-the-badge&logo=comptia&logoColor=white&labelColor=6272a4)](https://www.credly.com/badges/b85bd0a5-0d6a-4d27-ba9b-1fee27e397f0/public_url)
@@ -76,3 +87,4 @@ Curious about my projects? Want to collaborate or hire for entry-level IT/suppor
 [![Email](https://img.shields.io/badge/Email-matthew.poole485%40gmail.com-bd93f9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=6272a4)](mailto:matthew.poole485@gmail.com)  
 
 > *“Sometimes the questions are complicated and the answers are simple.”* — Dr. Seuss  
+
