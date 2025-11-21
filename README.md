@@ -1,8 +1,8 @@
 # 🧑‍🚀 Oh, Hello! — I'm Matthew | @TheOnliestMattastic  
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./images/logo-night.png">
-  <source media="(prefers-color-scheme: light)" srcset="./images/logo-day.png">
+  <source media="(prefers-color-scheme: dark)" srcset="./images/logo-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="./images/logo-light.png">
   <img alt="Mattastic Header" src="./images/logo-light.png">
 </picture>
 
