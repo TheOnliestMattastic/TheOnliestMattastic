@@ -1,6 +1,11 @@
 # 🧑‍🚀 Oh, Hello! — I'm Matthew | @TheOnliestMattastic  
 
-![Mattastic Header](header.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./images/logo-night.png">
+  <source media="(prefers-color-scheme: light)" srcset="./images/logo-day.png">
+  <img alt="Mattastic Header" src="./images/logo-light.png">
+</picture>
+
 [![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B_Certified-bd93f9?style=for-the-badge&logo=comptia&logoColor=white&labelColor=6272a4)](https://www.credly.com/badges/b85bd0a5-0d6a-4d27-ba9b-1fee27e397f0/public_url)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-bd93f9?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=6272a4)](https://theonliestmattastic.github.io/)
 [![Resume](https://img.shields.io/badge/Resume-PDF-bd93f9?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=6272a4)](https://raw.githubusercontent.com/theonliestmattastic/theonliestmattastic.github.io/main/assets/docs/resume.pdf)  
