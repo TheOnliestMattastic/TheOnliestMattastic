@@ -1,0 +1,54 @@
+<svg fill="none" viewBox="0 0 750 400" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .ascii-container {
+          font-family: 'Courier New', Courier, monospace;
+          font-size: 12px;
+          line-height: 12px;
+          white-space: pre;
+          font-weight: bold;
+        }
+
+        /* --- Light Mode Defaults (Darker Colors for White Backgrounds) --- */
+        .matthew { color: #026012; } /* forest_green */
+        .poole   { color: #432F0F; } /* earth_brown */
+        .chicano { color: #316570; } /* teal_accent */
+
+        /* --- Dark Mode Overrides (Lighter Colors for Dark Backgrounds) --- */
+        @media (prefers-color-scheme: dark) {
+          .matthew { color: #2d7d2d; } /* hyrule_green */
+          .poole   { color: #A5A202; } /* triforce_gold */
+          .chicano { color: #9fc184; } /* sage_green */
+        }
+      </style>
+
+      <div class="ascii-container">
+<div class="matthew"> ███████████ █████
+░█░░░███░░░█░░███
+░   ░███  ░  ░███████    ██████
+    ░███     ░███░░███  ███░░███
+    ░███     ░███ ░███ ░███████
+    ░███     ░███ ░███ ░███░░░
+    █████    ████ █████░░██████
+   ░░░░░    ░░░░ ░░░░░  ░░░░░░</div>
+<div class="poole">    ███████               ████   ███                    █████
+  ███░░░░░███            ░░███  ░░░                    ░░███
+ ███     ░░███ ████████   ░███  ████   ██████   █████  ███████
+░███      ░███░░███░░███  ░███ ░░███  ███░░███ ███░░  ░░░███░
+░███      ░███ ░███ ░███  ░███  ░███ ░███████ ░░█████   ░███
+░░███     ███  ░███ ░███  ░███  ░███ ░███░░░   ░░░░███  ░███ ███
+ ░░░███████░   ████ █████ █████ █████░░██████  ██████   ░░█████
+   ░░░░░░░    ░░░░ ░░░░░ ░░░░░ ░░░░░  ░░░░░░  ░░░░░░     ░░░░░</div>
+<div class="chicano"> ██████   ██████            █████     █████                       █████     ███
+░░██████ ██████            ░░███     ░░███                       ░░███     ░░░
+ ░███░█████░███   ██████   ███████   ███████    ██████    █████  ███████   ████   ██████
+ ░███░░███ ░███  ░░░░░███ ░░░███░   ░░░███░    ░░░░░███  ███░░  ░░░███░   ░░███  ███░░███
+ ░███ ░░░  ░███   ███████   ░███      ░███      ███████ ░░█████   ░███     ░███ ░███ ░░░
+ ░███      ░███  ███░░███   ░███ ███  ░███ ███ ███░░███  ░░░░███  ░███ ███ ░███ ░███  ███
+ █████     █████░░████████  ░░█████   ░░█████ ░░████████ ██████   ░░█████  █████░░██████
+░░░░░     ░░░░░  ░░░░░░░░    ░░░░░     ░░░░░   ░░░░░░░░ ░░░░░░     ░░░░░  ░░░░░  ░░░░░░</div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
