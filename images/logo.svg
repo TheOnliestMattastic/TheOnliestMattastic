@@ -1,0 +1,63 @@
+<svg fill="none" viewBox="0 0 680 320" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .ascii-container {
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 14px; /* Consistent size with generator */
+        line-height: 14px;
+        font-weight: bold;
+        background-color: transparent;
+
+        /* Fixes for rendering outside of a dedicated code view */
+        white-space: pre;
+        width: 680px;
+        overflow: visible;
+        -webkit-text-size-adjust: none;
+        display: block;
+        }
+
+        /* --- LIGHT MODE PALETTE (Hero of Time: Forest/Earth) --- */
+        /* Text: Deep Kokiri Green (AAA) */
+        .text, .leaf, .stem { color: #1a472a; }
+        /* Blade: Tempered Steel Teal (AAA) */
+        .blade { color: #2b5d66; }
+        /* Hilt/Petal: Deku Tree Brown (AAA) */
+        .hilt, .petal { color: #5d4037; }
+
+        /* --- DARK MODE PALETTE (Sheikah/Shrine: Blue/Gold) --- */
+        @media (prefers-color-scheme: dark) {
+        /* Text: Sheikah Slate Blue (AAA) */
+        .text, .leaf, .stem { color: #64b5f6; }
+        /* Blade: Spirit Mint (AAA) */
+        .blade { color: #80cbc4; }
+        /* Hilt/Petal: Triforce Gold (AAA) */
+        .hilt, .petal { color: #ffd54f; }
+        }
+      </style>
+
+      <div class="ascii-container">
+        <span class="blade">  ██╗         </span><span class="text">████████╗██╗  ██╗███████╗</span><span class="blade">                     </span><span class="hilt">███╗       ██╗██╗  </span>
+        <span class="blade"> ██╔╝██╗██╗██╗</span><span class="text">╚══██╔══╝██║  ██║██╔════╝</span><span class="blade">██╗██╗██╗██╗██╗██╗██╗</span><span class="hilt">╚██║      ██╔╝╚██╗ </span>
+        <span class="blade">██╔╝ ╚═╝╚═╝╚═╝</span><span class="text">   ██║   ███████║█████╗  </span><span class="blade">╚═╝╚═╝╚═╝╚═╝╚═╝╚═╝╚═╝</span><span class="hilt"> ██║█████╗██║  ██║ </span>
+        <span class="blade">╚██╗ ██╗██╗██╗</span><span class="text">   ██║   ██╔══██║██╔══╝  </span><span class="blade">██╗██╗██╗██╗██╗██╗██╗</span><span class="hilt"> ██║╚════╝██║  ██║ </span>
+        <span class="blade"> ╚██╗╚═╝╚═╝╚═╝</span><span class="text">   ██║   ██║  ██║███████╗</span><span class="blade">╚═╝╚═╝╚═╝╚═╝╚═╝╚═╝╚═╝</span><span class="hilt">███║      ╚██╗██╔╝ </span>
+        <span class="blade">  ╚═╝         </span><span class="text">   ╚═╝   ╚═╝  ╚═╝╚══════╝</span><span class="blade">                     </span><span class="hilt">╚══╝       ╚═╝╚═╝  </span>
+        <span class="petal">         </span><span class="leaf">    </span><span class="stem">       </span><span class="text">                                                           </span>
+        <span class="petal"> ██████╗ </span><span class="leaf">██╗ </span><span class="stem">       </span><span class="text">    ██████╗ ███╗   ██╗██╗     ██╗███████╗███████╗████████╗ </span>
+        <span class="petal">██╔═══██╗</span><span class="leaf">╚██╗</span><span class="stem">       </span><span class="text">   ██╔═══██╗████╗  ██║██║     ██║██╔════╝██╔════╝╚══██╔══╝ </span>
+        <span class="petal">██║██╗██║</span><span class="leaf"> ██║</span><span class="stem">█████╗ </span><span class="text">   ██║   ██║██╔██╗ ██║██║     ██║█████╗  ███████╗   ██║    </span>
+        <span class="petal">██║██║██║</span><span class="leaf"> ██║</span><span class="stem">╚════╝ </span><span class="text">   ██║   ██║██║╚██╗██║██║     ██║██╔══╝  ╚════██║   ██║    </span>
+        <span class="petal">╚█║████╔╝</span><span class="leaf">██╔╝</span><span class="stem">       </span><span class="text">   ╚██████╔╝██║ ╚████║███████╗██║███████╗███████║   ██║    </span>
+        <span class="petal"> ╚╝╚═══╝ </span><span class="leaf">╚═╝ </span><span class="stem">       </span><span class="text">    ╚═════╝ ╚═╝  ╚═══╝╚══════╝╚═╝╚══════╝╚══════╝   ╚═╝    </span>
+        <span class="text">                                                                               </span>
+        <span class="text">███╗   ███╗ █████╗ ████████╗████████╗ █████╗ ███████╗████████╗██╗ ██████╗      </span>
+        <span class="text">████╗ ████║██╔══██╗╚══██╔══╝╚══██╔══╝██╔══██╗██╔════╝╚══██╔══╝██║██╔════╝      </span>
+        <span class="text">██╔████╔██║███████║   ██║      ██║   ███████║███████╗   ██║   ██║██║           </span>
+        <span class="text">██║╚██╔╝██║██╔══██║   ██║      ██║   ██╔══██║╚════██║   ██║   ██║██║           </span>
+        <span class="text">██║ ╚═╝ ██║██║  ██║   ██║      ██║   ██║  ██║███████║   ██║   ██║╚██████╗      </span>
+        <span class="text">╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝      ╚═╝   ╚═╝  ╚═╝╚══════╝   ╚═╝   ╚═╝ ╚═════╝      </span>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
