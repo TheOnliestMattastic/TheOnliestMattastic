@@ -1,10 +1,6 @@
-# 🧑‍🚀 Oh, Hello! — I'm Matthew | @TheOnliestMattastic  
+# 🧑‍🚀 Oh, Hello! — I'm Matthew | @TheOnliestMATTastic  
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./images/logo-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="./images/logo-light.png">
-  <img alt="Mattastic Header" src="./images/logo-light.png">
-</picture>
+![Logo](images/logo.png)
 
 [![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B_Certified-bd93f9?style=for-the-badge&logo=comptia&logoColor=white&labelColor=6272a4)](https://www.credly.com/badges/b85bd0a5-0d6a-4d27-ba9b-1fee27e397f0/public_url)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-bd93f9?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=6272a4)](https://theonliestmattastic.github.io/)
@@ -12,13 +8,13 @@
 
 ## 🚀 Featured Projects  
 
-- **🐱 powerCat (PowerShell, Pester, GitHub Actions)** — Published a professional‑grade PowerShell module with automated testing and CI/CD, streamlining code/documentation bundling for recruiters and collaborators.  
-- **🧰 Bash Toolkit (Bash, rclone, cron)** — Built and documented a suite of portable scripts to automate repetitive system tasks, reducing manual overhead and improving reliability.  
+- **🐱 POWERcat (PowerShell, Pester, GitHub Actions)** — Published a professional‑grade PowerShell module with automated testing and CI/CD, streamlining code/documentation bundling for recruiters and collaborators.  
+- **🧰 BASHtools (Bash, rclone, cron)** — Built and documented a suite of portable scripts to automate repetitive system tasks, reducing manual overhead and improving reliability.  
 - **📊 Tobacco & Vital Signs Research (R, ggplot2, R Markdown)** — Conducted statistical modeling and data visualization on smoking’s impact on blood pressure/heart rate, producing a reproducible, published report.  
 - **🪐 The Onliest Folio (HTML, CSS, JavaScript)** — Developed a dual‑purpose personal portfolio that doubles as a beginner‑friendly template. Added clear inline comments and structured guidance so non‑coders can fork, customize, and publish their own sites, lowering barriers to entry for newcomers to GitHub and web development.  
-- **⚔️ Battle Tactics Arena: Refactored & Remastered (Lua, LÖVE2D)** — 2D turn-based tactical RPG rebuilt with modular architecture, animated sprites, and data-driven design. Demonstrates clean code practices, state management, and portfolio-quality game development.  
+- **⚔️ Battle Tactics aREna: REfactored, REmastered, REengingeered (Lua, LÖVE2D)** — 2D turn-based tactical RPG rebuilt with modular architecture, animated sprites, and data-driven design. Demonstrates clean code practices, state management, and portfolio-quality game development.  
 
-## ✨ Skills Snapshot  
+## ✨ Skills Snapshot
 
 **Core Spikes (Depth):**  
 
