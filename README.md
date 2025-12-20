@@ -1,4 +1,4 @@
-# 🧑‍🚀 Oh, Hello! — I'm Matthew | @TheOnliestMATTastic  
+# 🧑‍🚀 Oh, Hello! — I'm Matthew | @TheOnliestMATTastic
 
 ![Logo](banner.png)
 
@@ -10,7 +10,7 @@
 
 **My strongest work, demonstrating versatility, real-world impact, and self-directed learning:**
 
-- **🐱 PowerCat (PowerShell, Pester, GitHub Actions)** — Published module on PowerShell Gallery (68 downloads, 2 months). Professional-grade bundler with automated testing and CI/CD. Shows ability to build production tools, not just scripts.  
+- **🐱 PowerCat (PowerShell, Pester, GitHub Actions)** — Published module on PowerShell Gallery (70+ downloads). Professional-grade bundler with automated testing and CI/CD. Shows ability to build production tools, not just scripts.  
 - **⚔️ Battle Tactics Arena: Refactored & Remastered (Lua, LÖVE2D)** — 2D turn-based tactical RPG rebuilt from monolithic prototype into modular architecture. Demonstrates architectural growth, clean code practices, state management, and portfolio-quality game development.  
 - **⚡ HyperFix.nvim (Lua, Neovim)** — Professionally-designed Neovim template with accessibility-first design (WCAG AAA). Shows ability to think beyond code—documentation, UX, and universal design principles matter.  
 - **🧰 BashParaphernalia (Bash, Linux)** — Suite of automated system administration scripts (rclone mounting, RGB setup, automation tools). Self-contained, well-documented, and demonstrates IT systems knowledge.  
@@ -19,28 +19,28 @@
 
 ## ✨ Skills Snapshot
 
-**Core Spikes (Depth):**  
+**Core Spikes (Depth):**
 
-- **Automation & Scripting:** PowerShell (module publishing, Pester testing, CI/CD pipelines), Bash (automation workflows)  
+- **Automation & Scripting:** PowerShell (module publishing, Pester testing, CI/CD pipelines), Bash (automation workflows)
 - **DevOps & Workflow:** GitHub Actions, version control (Git/GitHub), reproducible reporting  
 
-**Supporting Skills (Breadth):**  
+**Supporting Skills (Breadth):**
 
-- **Web & Documentation:** HTML/CSS, Markdown (repo branding, technical docs, reproducible reports)  
-- **Game Development & Creative Tools:** Lua (LÖVE2D), Blender, Krita  
-- **IT Support & Systems:** Windows 10/11, Linux (Nobara/Fedora, Pop!_OS), macOS; POS/device setup; end-user training  
+- **Web & Documentation:** HTML/CSS, Markdown (repo branding, technical docs, reproducible reports)
+- **Game Development & Creative Tools:** Lua (LÖVE2D), Blender, Krita
+- **IT Support & Systems:** Windows 10/11, Linux (Nobara/Fedora, Pop!_OS), macOS; POS/device setup; end-user training
 - **Data & Analysis:** R, ggplot2, statistical modeling, data visualization
 
 ## 🧬 About Me  
 
 I'm a **versatile technologist** who thrives at the intersection of **IT support, automation, and creative development**. I don't have a formal CS degree—I'm **self-taught**, which has taught me to be resourceful, curious, and committed to continuous learning.
 
-Think of me as a **generalist with spikes**:  
+Think of me as a **generalist with spikes**:
 
 - **Breadth:** I've worn many hats—supporting end-users, troubleshooting systems, writing documentation, and building indie games. This diversity makes me adaptable and collaborative.  
-- **Depth:** My strongest spike is **automation and scripting**—publishing production modules, building CI/CD pipelines, and writing tools that save time and reduce friction. I believe software should be elegant AND ergonomic.  
+- **Depth:** My strongest spike is **automation and scripting**—publishing production modules, building CI/CD pipelines, and writing tools that save time and reduce friction. I believe software should be elegant AND ergonomic.
 
-I'm **CompTIA A+ certified**, a lifelong tinkerer, and a believer in making tech accessible, memorable, and human-friendly.  
+I'm **CompTIA A+ certified**, a lifelong tinkerer, and a believer in making tech accessible, memorable, and human-friendly.
 
 ## 🔭 Current Focus  
 
@@ -55,7 +55,7 @@ I use AI assistants—primarily **Claude** and **Amp**—as productivity tools i
 
 ## 🌌 Values  
 
-I believe in **clear education, fair wages, and reducing barriers to entry in tech**. My code is written to teach as much as it runs, and my documentation is designed to empower others. I'm also committed to **destigmatizing neurodivergence** and **making dev tooling more accessible**.  
+I believe in **clear education, fair wages, and reducing barriers to entry in tech**. My code is written to teach as much as it runs, and my documentation is designed to empower others. I'm also committed to **destigmatizing neurodivergence** and **making dev tooling more accessible**.
 
 When you look at my work, you'll see projects with extensive comments, beginner-friendly READMEs, and care put into user experience. That's intentional.
 
