@@ -10,7 +10,7 @@ The Onliest Studios is my vehicle for software and game publishing, where I turn
 
 ## 💎 Key Projects
 
-![StatlessIO banner](assets/statelessIO-banner-sm.png)
+![StatlessIO banner](assets/statelessIO-banner.png)
 
 - **StatelessIO**: The flagship API suite for modern systems. Renamed and refactored for maximum modularity and stateless efficiency.
 - **BTA (Battle Tactics Arena)**: A tactical, turn-based RPG framework built on the Love2D engine. Proof that Lua and ECS architecture can handle complex grid-based logic.
