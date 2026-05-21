@@ -1,7 +1,6 @@
 # The Onliest Mattastic
 
 **Technical Generalist | Systems Architect | Independent Developer**  
-📍 Brooklyn, NY
 
 I build products, systems, and tooling that remove friction and make complex workflows feel obvious.
 
