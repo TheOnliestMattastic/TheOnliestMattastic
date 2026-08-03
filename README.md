@@ -19,11 +19,6 @@ I am a systems-focused software developer building game architecture, developer 
 - Curated Neovim distribution emphasizing discoverability, low-friction workflows, and mnemonic keybinding design. 
 - Unifies editor, terminal, AI tooling, and development workflows into a cohesive Linux-first environment using Lua and modern Neovim plugins. 
 
-**BacMac6T**  
-- A high-density, automated backup appliance integrating a 4TB HDD, two 1TB SSDs, and an industrial USB 3.0 hub into a space-constrained vintage Mac Mini chassis.
-- Features a headless Debian environment utilizing Btrfs immutable snapshots and BorgBackup deduplication over an encrypted zero-trust mesh network powered by Tailscale. 
-- Utilizes a custom active cooling system to maintain safe operating temperatures in a densely packed multi-drive enclosure 
-
 ## 🛠️ The Tech Stack
 
 - **Languages:** C++, GDScript, Lua, Bash, JavaScript, PowerShell
